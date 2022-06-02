@@ -1,0 +1,13 @@
+name = "OptiMyZation"
+author = "quatquatt"
+version = "0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5297f759d539ba764bb05f2ad9a4adf7fcdd97be5d79451743b013fc331b3a04"
+
+[versions]
+fabric = "0.14.6"
+minecraft = "1.18.2"
