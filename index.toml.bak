@@ -1,0 +1,144 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/betterfpsdist.json"
+hash = "7b4a48a92faacf907785a8b95627d1b696705667f5cb118a76559659928bda4d"
+
+[[files]]
+file = "config/c2me-compat.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "3679edf552a52b22c358f79d8e068db4b87355f90ffbf17933134aa90368b011"
+
+[[files]]
+file = "config/debugify-descriptions.json"
+hash = "03dd8d17c67256c226ed8dc63f48a60c51eae497354c8e1cdaa061d8cb488781"
+
+[[files]]
+file = "config/debugify.json"
+hash = "cf5bbb50619d5dd49759464ab83ea71de618474eec90f20b416cd969e22ba95d"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "c5c2be339259784d5fe2272789b6866fe7343b3ad2d6e92eaab997b61cf120fe"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "37220c4741ad894689a87269836efc949e2d9e5e538e62e52103e7e5259c8df1"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "e928150d9a0efcd6c5a422cf506d97c4fb7d94e072e5cb928eb04a913da75bf9"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
+
+[[files]]
+file = "config/iris.properties"
+hash = "a8e3f7dc4ca3210f24d62a25ca709d3195ead56e206f07245c3af30985ff31d1"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "2e2b9611cb59ea72204bda9c7146d05929d14f7c8da37e6a753fb6c1a5724405"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "e96438af51e995d5f15d0053af921e778a854ca72b147839b150172305d73be3"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "8675359618807b4b81e630696f45c725c36425624699d9f6729216297ab2395f"
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "b5cbeacd81556bb35baae52bc7576c35ce88dbe23021a9e39c192592af67e92e"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7d271dfe7ba52243602bfe6fb74c5a3c5f7156142bb5aa24c21db1ce62aba30f"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "5c05e7323ec7f46a986c6cb90a7cff289a9f5edf532ebcb90667a7c4ade3e519"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "478f43341248346118765f37013fa8d595b9f66aeb3a681146afb29731b4f8f7"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "65370d3a87c7eadaa75ebf3c00cbff34cf206f88fa54c0d13da1225d7c4bf862"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "795fb3cc9ea54d3960c3d50a1482d96eb5469f250ae49d080bdff7398893682d"
+metafile = true
+
+[[files]]
+file = "mods/feature-nbt-deadlock-be-gone.pw.toml"
+hash = "9f7b08079849251431522254b7d781d62827b00a1dd72b415c20d22279b29f32"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "a8870bf1740259a7392af3e5a8a001fe957e9cb3b6a7879a5acfe608d45eaf73"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "fec143d68112c0260e4964f50aad541afde432252cd3f748d4046267af558e67"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ded057bbb3ab2991addbf96e472df8efa7434c3060f65f6e4d95491c488e659c"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a6c1b4971c7c06b4a6e802362ae24feb242ae2943cef941fe6319b651768b7e1"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.pw.toml"
+hash = "9a031c4018bdcf4e8d70f5009a3069914b8febf96712222fdd31f8d0ae2451b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "f95b2fb43d80577d8f42bb6c60bd0e7aafe7db81a43e5122b7ee69941fccbaeb"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "b51973797d0cc8b656e71b85c4a2143995a4bb599181453ef9b0e7e6e3de549f"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "c8f53d892e510b1496f431f73c63f72a8488fd3fdeb4adffb8cb0b68bb2a497e"
+
+[[files]]
+file = "servers.dat_old"
+hash = "3a96e03e3180715f89e8710098d0e30fa1397b8099b3872d7dbc966e6e4f2fc7"
